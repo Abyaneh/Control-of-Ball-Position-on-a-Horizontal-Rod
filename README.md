@@ -134,10 +134,15 @@ Load the data from the `text-data/` directory and run the plotting scripts.
 ---
 
 ## Adjust PID Parameters:
-You can adjust the PID parameters in the STM32 code and observe the system response in MATLAB.  
-The system supports real-time tuning for better control.
+We adjusted the PID parameters through trial and error. The optimal values found for the Proportional, Integral, and Derivative coefficients are:
+- \( K_p = 8 \)
+- \( K_i = 1 \)
+- \( K_d = 11 \)
+
+These values were determined to minimize overshoot, reduce rise time, and ensure stable steady-state performance. The system supports real-time tuning for better control, allowing for continuous adjustments until optimal values are confirmed.
 
 [Back to Top](#table-of-contents)
+
 
 ---
 
