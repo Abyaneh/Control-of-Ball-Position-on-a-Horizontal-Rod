@@ -1,0 +1,2 @@
+# Control-of-Ball-Position-on-a-Horizontal-Rod
+ This project demonstrates a control system designed to maintain the position of a ball on a horizontal rod. The rod is actuated by a motor, and the system uses feedback from ultrasonic sensors and a PID controller to adjust the rod's position in response to changes in the ball's location. This project employs an STM32 microcontroller for real-time control.
