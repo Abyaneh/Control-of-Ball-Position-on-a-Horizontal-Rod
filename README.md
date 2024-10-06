@@ -122,7 +122,7 @@ Final_Assembled_Device
    git clone https://github.com/Abyaneh/Control-of-Ball-Position-on-a-Horizontal-Rod/tree/main
 - [Back to Top](#table-of-contents)
 ## STM32 Setup:
-Download the code in the `stm32Code.zip` and upload it to the STM32 microcontroller using Keil IDE.  
+Download the code in the `stm32Code` and upload it to the STM32 microcontroller using Keil IDE.  
 Connect the ultrasonic sensors and servo motor according to the provided pinout in the documentation.
 - [Back to Top](#table-of-contents)
 ---
