@@ -142,7 +142,7 @@ The system supports real-time tuning for better control.
 - **Alireza Padash:** Hardware setup, mechanical design, and motor control.
 - **Mehdi Khayami:** Data analysis, MATLAB visualization, and project documentation.
 
-  ![group_image ](https://github.com/Abyaneh/rotten_and_fresh/blob/main/photos%20%20from%20group%20project/Clipped_image_%DB%B2%DB%B0%DB%B2%DB%B4%DB%B0%DB%B9%DB%B2%DB%B6_%DB%B1%DB%B2%DB%B4%DB%B2%DB%B3%DB%B9.png)
+  ![group_image ](https://github.com/Abyaneh/Control-of-Ball-Position-on-a-Horizontal-Rod/blob/main/photos%20from%20project/group_image%20.png)
 
 [Back to Top](#table-of-contents)
 
