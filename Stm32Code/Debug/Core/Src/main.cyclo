@@ -1,0 +1,17 @@
+main.c:100:6:moveto	4
+main.c:108:6:delay	2
+main.c:114:6:SR05_Read1	1
+main.c:121:6:SR05_Read2	1
+main.c:139:5:main	1
+main.c:213:6:SystemClock_Config	3
+main.c:260:13:MX_CAN1_Init	2
+main.c:297:13:MX_TIM3_Init	4
+main.c:342:13:MX_TIM8_Init	5
+main.c:395:13:MX_USART2_UART_Init	2
+main.c:428:13:MX_GPIO_Init	1
+main.c:465:6:HAL_UART_RxCpltCallback	10
+main.c:498:6:HAL_TIM_PeriodElapsedCallback	5
+main.c:528:6:input_capture1	5
+main.c:558:6:input_capture2	5
+main.c:586:6:HAL_TIM_IC_CaptureCallback	3
+main.c:603:6:Error_Handler	1
