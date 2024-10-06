@@ -115,7 +115,7 @@ Check out the video demonstration of the project in action:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/Control_of_Ball_Position.git
+   git clone https://github.com/Abyaneh/Control-of-Ball-Position-on-a-Horizontal-Rod/tree/main
 - [Back to Top](#table-of-contents)
 ## STM32 Setup:
 Download the code in the `stm32Code.zip` and upload it to the STM32 microcontroller using Keil IDE.  
