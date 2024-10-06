@@ -107,7 +107,7 @@ Check out the video demonstration of the project in action:
 
 [**Watch the Video**](https://github.com/Abyaneh/Control-of-Ball-Position-on-a-Horizontal-Rod/blob/main/Video%20of%20performance.mp4)
 
-![Final_Assembled_Device](https://github.com/Abyaneh/rotten_and_fresh/blob/main/photos%20%20from%20group%20project/%DB%B2%DB%B0%DB%B2%DB%B4%DB%B0%DB%B7%DB%B0%DB%B9_%DB%B1%DB%B3%DB%B4%DB%B6%DB%B1%DB%B9.jpg)
+![Final_Assembled_Device](https://github.com/Abyaneh/Control-of-Ball-Position-on-a-Horizontal-Rod/blob/main/photos%20from%20project/Final_Assembled_Device.png)
 
 [Back to Top](#table-of-contents)
 
