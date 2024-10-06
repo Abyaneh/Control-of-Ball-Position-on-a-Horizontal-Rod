@@ -116,17 +116,17 @@ Check out the video demonstration of the project in action:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/YourUsername/Control_of_Ball_Position.git
-
+- [Back to Top](#table-of-contents)
 ## STM32 Setup:
 Download the code in the `stm32Code.zip` and upload it to the STM32 microcontroller using Keil IDE.  
 Connect the ultrasonic sensors and servo motor according to the provided pinout in the documentation.
-
+- [Back to Top](#table-of-contents)
 ---
 
 ## MATLAB Visualization:
 Use the files in the `MATLAB/` directory to visualize system performance.  
 Load the data from the `text-data/` directory and run the plotting scripts.
-
+- [Back to Top](#table-of-contents)
 ---
 
 ## Adjust PID Parameters:
