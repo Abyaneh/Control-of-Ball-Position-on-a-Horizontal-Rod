@@ -80,7 +80,7 @@ Different PID coefficients were tested, and MATLAB was used to visualize the sys
 
 ---
 
-## My Dataset
+## Dataset
 The dataset includes real-time data recorded from the system during various test scenarios. The data consists of ball position readings and motor angle data. These datasets are stored in the `text-data/` directory and are used for further analysis and plotting in MATLAB.
 
 Data includes:
