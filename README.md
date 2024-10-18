@@ -11,7 +11,7 @@ This project demonstrates a dynamic control system that maintains the position o
   - [Motor Actuation Layer](#motor-actuation-layer)
   - [MATLAB Analysis Layer](#matlab-analysis-layer)
 - [Explain more about the PID Control](#explain-more-about-the-pid-control)
-- [My Dataset](#my-dataset)
+- [Dataset](#dataset)
 - [Technologies & Tools Used](#technologies--tools-used)
 - [Video Demonstration](#video-demonstration)
 - [How to Run the Project](#how-to-run-the-project)
