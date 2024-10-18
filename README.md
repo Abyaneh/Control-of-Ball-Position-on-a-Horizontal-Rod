@@ -51,16 +51,16 @@ This README explains the structure, operation, and technical details of the proj
 
 ## Project Layers
 
-### Control System Layer
+### Control System 
 This layer is responsible for the real-time control of the rod using the STM32 microcontroller. The control system is built around a PID algorithm that adjusts the motor's position based on the error between the ball's current position and the desired position.
 
-### Sensor Feedback Layer
+### Sensor Feedback 
 The ball's position is detected using ultrasonic sensors. The sensors send distance data to the STM32, which processes it to compute the position error. This error is then used by the PID controller to adjust the rod's angle.
 
-### Motor Actuation Layer
+### Motor Actuation 
 The motor is driven by a servo driver that receives commands from the STM32 microcontroller. The STM32 sends PWM signals to control the motor's angle and adjust the rod in response to ball movement.
 
-### MATLAB Analysis Layer
+### MATLAB Analysis 
 The data collected during the system's operation is plotted in MATLAB. MATLAB is used to visualize the response of the system with different PID parameters and analyze the system’s performance, including overshoot, rise time, and settling time.
 
 [Back to Top](#table-of-contents)
