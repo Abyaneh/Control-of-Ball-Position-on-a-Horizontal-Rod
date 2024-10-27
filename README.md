@@ -147,9 +147,9 @@ These values were determined to minimize overshoot, reduce rise time, and ensure
 ---
 
 ## Team Members
-- **Mohammad Maleki Abiane:** STM32 coding, system modeling, and PID tuning.
-- **Alireza Padash:** Hardware setup, mechanical design, and motor control.
-- **Mehdi Khayami:** Data analysis, MATLAB visualization, and project documentation.
+- **Mohammad Maleki Abyaneh** 
+- **Alireza Padash** 
+- **Mehdi Khayami** 
 
   <img src="https://github.com/Abyaneh/Control-of-Ball-Position-on-a-Horizontal-Rod/blob/main/photos%20from%20project/group_image%20.png" alt="group_image" width="400"/>
 
